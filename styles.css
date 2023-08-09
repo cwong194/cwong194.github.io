@@ -1,0 +1,71 @@
+header {
+    background-image: url('https://m.media-amazon.com/images/S/aplus-media/vc/02fa2f50-214a-422d-9767-c1e03354cbb1.__CR0,0,970,300_PT0_SX970_V1___.jpg');
+    background-size: cover; 
+    background-position: center center;; 
+    text-align: center;
+    padding: 20px 0; 
+  }
+  
+  header h1 {
+    font-size: 2rem;
+    margin-top: 20px; 
+    color: white;
+    background-color: rgb(246, 141, 29); 
+    display: inline-block; 
+    font-family: 'Lugrasimo', cursive;
+}
+
+
+header p {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: white;
+    margin-top: 10px;
+    background-color: rgb(246, 141, 29);
+    padding: 5px; 
+    display: inline-block; 
+    
+}
+
+nav {
+    margin-top: 20px; 
+}
+
+nav ul {
+    list-style: none ;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(246, 141, 29); 
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: rgb(35, 33, 33);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+
+nav ul li a:hover {
+    color: white; 
+}
+
+body {
+    background-color: rgb(250, 155, 53); 
+    color: #333;
+    text-align: left;
+    font-family: 'Changa', sans-serif;
+  } 
+  main {
+    padding: 10px;
+    font-size: 1rem;
+  }
+  
+  .hero-section{
+    text-align: left; 
+    font-size: 1.2rem;
+  }
+  
